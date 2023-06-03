@@ -5,7 +5,7 @@
         Owners: Jonas Lundqvist
         Type: Technical
         Layers: Applications
-        Status: DRAFT
+        Status: Withdrawn
         Current Version: 0.1.0
         Last Edit Date: 2023-05-30
 
@@ -155,6 +155,7 @@ Both [BIP-70][2] and [jsonPaymentProtocol][3] demands more effort to implement a
 | Version | Date | Changes |
 |---------|------|---------|
 |0.1.0    | 2023-05-30 | Initial draft |
+|0.2.0    | 2023-06-03 | Withdrawn     |
 
 ## References
 
